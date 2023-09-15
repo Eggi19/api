@@ -1,0 +1,176 @@
+{
+  "users": [
+    {
+      "firstName": "Eggi",
+      "lastName": "Yapari",
+      "phoneNumber": "081546219841",
+      "birthdate": "1997-10-19",
+      "email": "eggi@gmail.com",
+      "username": "eggiyapari",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "google": false,
+      "id": 1
+    },
+    {
+      "firstName": "andi",
+      "lastName": "lala",
+      "phoneNumber": "08156518142",
+      "birthdate": "1991-02-01",
+      "email": "andi@gmail.com",
+      "username": "andi",
+      "password": "321654",
+      "confirmPassword": "321654",
+      "google": false,
+      "id": 2
+    },
+    {
+      "firstName": "lala",
+      "lastName": "maut",
+      "phoneNumber": "05056162654",
+      "birthdate": "2000-12-12",
+      "email": "lala@gmail.com",
+      "username": "lala123",
+      "password": "987654",
+      "confirmPassword": "987654",
+      "google": false,
+      "id": 3
+    },
+    {
+      "firstName": "Eggi",
+      "lastName": "Yapari",
+      "email": "eggiyapari3661@gmail.com",
+      "username": "Eggi",
+      "google": true,
+      "id": 4
+    },
+    {
+      "firstName": "Eggi",
+      "lastName": "Yapari",
+      "email": "eggiyapari19@gmail.com",
+      "username": "Eggi",
+      "google": true,
+      "id": 5
+    },
+    {
+      "firstName": "Karmilus",
+      "lastName": "Logho",
+      "email": "loghokarmilus@gmail.com",
+      "username": "Karmilus",
+      "google": true,
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "category": "Shoes"
+    },
+    {
+      "id": 2,
+      "category": "Clothing"
+    },
+    {
+      "id": 3,
+      "category": "Accecories"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "SEPATU SAMBA OG",
+      "price": 2200000,
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "SEPATU BERSEPEDA VELOSAMBA VEGAN",
+      "price": 1900000,
+      "categoryId": 1
+    }
+  ],
+  "types": [
+    {
+      "id": 1,
+      "productId": 1,
+      "discount": 0,
+      "size": [
+        12.5,
+        13
+      ],
+      "stock": 5,
+      "color": "BLACK/WHITE/BEIGE [B75807]",
+      "images": {
+        "main_images": "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/b/7/b75807_sl_ecom.jpg",
+        "detail_images": [
+          "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/b/7/b75807_sl_ecom.jpg",
+          "https://www.adidas.co.id/media/catalog/product/b/7/b75807_sl_ecom.jpg",
+          "https://www.adidas.co.id/media/catalog/product/b/7/b75807_smc_ecom.jpg",
+          "https://www.adidas.co.id/media/catalog/product/b/7/b75807_blt_ecom.jpg",
+          "https://www.adidas.co.id/media/catalog/product/b/7/b75807_bt_ecom.jpg",
+          "https://www.adidas.co.id/media/catalog/product/b/7/b75807_d1_ecom.jpg",
+          "https://www.adidas.co.id/media/catalog/product/b/7/b75807_d2_ecom.jpg",
+          "https://www.adidas.co.id/media/catalog/product/b/7/b75807_d3_ecom.jpg",
+          "https://www.adidas.co.id/media/catalog/product/b/7/b75807_flt_ecom.jpg",
+          "https://www.adidas.co.id/media/catalog/product/b/7/b75807_fr_ecom.jpg",
+          "https://www.adidas.co.id/media/catalog/product/b/7/b75807_mp_ecom.jpg",
+          "https://www.adidas.co.id/media/catalog/product/b/7/b75807_slco_ecom.jpg",
+          "https://www.adidas.co.id/media/catalog/product/b/7/b75807_slc_ecom.jpg",
+          "https://www.adidas.co.id/media/catalog/product/b/7/b75807_tpp_ecom.jpg",
+          "http://adidas-static.s3.amazonaws.com/IMAGE/_N_video_Model_eCom.mp4"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "productId": 1,
+      "discount": 0,
+      "size": [
+        13
+      ],
+      "stock": 97,
+      "color": "WHITE/BLACK/MULTICOLOR [B75806]",
+      "images": {
+        "main_images": "https://www.adidas.co.id/media/catalog/product/B/7/B75806_SL_eCom.jpg",
+        "detail_images": [
+          "https://www.adidas.co.id/media/catalog/product/b/7/b75806_sl_ecom.jpg",
+          "https://www.adidas.co.id/media/catalog/product/b/7/b75806_sl_ecom.jpg",
+          "https://www.adidas.co.id/media/catalog/product/b/7/b75806_smc_ecom.jpg",
+          "https://www.adidas.co.id/media/catalog/product/b/7/b75806_blt_ecom.jpg",
+          "https://www.adidas.co.id/media/catalog/product/b/7/b75806_bt_ecom.jpg",
+          "https://www.adidas.co.id/media/catalog/product/b/7/b75806_d1_ecom.jpg",
+          "https://www.adidas.co.id/media/catalog/product/b/7/b75806_d2_ecom.jpg",
+          "https://www.adidas.co.id/media/catalog/product/b/7/b75806_d3_ecom.jpg",
+          "https://www.adidas.co.id/media/catalog/product/b/7/b75806_flt_ecom.jpg",
+          "https://www.adidas.co.id/media/catalog/product/b/7/b75806_fr_ecom.jpg",
+          "https://www.adidas.co.id/media/catalog/product/b/7/b75806_mp_ecom.jpg",
+          "https://www.adidas.co.id/media/catalog/product/b/7/b75806_slco_ecom.jpg",
+          "https://www.adidas.co.id/media/catalog/product/b/7/b75806_slc_ecom.jpg",
+          "https://www.adidas.co.id/media/catalog/produzct/b/7/b75806_tpp_ecom.jpg",
+          "http://adidas-static.s3.amazonaws.com/IMAGE/_N_video_Model_eCom.mp4"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "productId": 2,
+      "discount": 35,
+      "size": [
+        5,
+        10,
+        10.5,
+        11,
+        12.5
+      ],
+      "stock": 85,
+      "color": "WHITE/WHITE/BLACK [GX1672]",
+      "images": {
+        "main_images": "https://www.adidas.co.id/media/catalog/product/g/x/gx1672_2_footwear_photography_side20lateral20view_grey.jpg",
+        "detail_images": [
+          "https://www.adidas.co.id/media/catalog/product/g/x/gx1672_2_footwear_photography_side20lateral20view_grey.jpg"
+        ]
+      }
+    }
+  ],
+  "carts": []
+}
